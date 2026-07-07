@@ -1,9 +1,6 @@
-# RAG-Demo-Application
-Sample project created to understand Gen AI and RAG concepts. 
-
 # Azure RAG Agent with Context Compression
 
-Token-aware AI backend built with FastAPI and Azure, inspired by Headroom’s “context compression layer for AI agents”.  
+Sample project created to understand Gen AI and RAG concepts, RAG pipelines on Azure, and context compression for AI agents.Token-aware AI backend built with FastAPI and Azure, inspired by Headroom’s “context compression layer for AI agents”.  
 This project demonstrates an end-to-end Retrieval-Augmented Generation (RAG) pipeline on Azure with a middleware that reduces prompt tokens while preserving answer quality.
 
 ---
